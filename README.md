@@ -1,4 +1,4 @@
-# vr-ai3gen
+# VR-Ai3gen
 All auto AI VR graphic prediction precedion
 Heal their usage of old VR heatset with direct display VR mod for all games. Virtual Reality Auto depth VR prediction, precedion, AI, convertor
 
