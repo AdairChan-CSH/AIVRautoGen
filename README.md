@@ -24,7 +24,7 @@ put browser full-screen
 
 uses of third party software "vitrite", press keyboard ctrl+shift+2
 
-put "vr96.html" transparent as above, both browsers displayed, change below for both videos a little bit to functionablemove right or left
+put "vr96.html" transparent as above, both browsers displayed, change tune-ing below for both videos a little bit to functionable, move right or left
 
 enjoy pain-free VR desktop without crashing to any StreamVR bugs!
 
